@@ -11,6 +11,7 @@ body    {
 .jumbotron  {
     background-color: firebrick;
     color: floralwhite;
+    text-align: center;
 }
 .card-footer    {
     background-color: forestgreen;
@@ -19,4 +20,5 @@ body    {
 }
 .card   {
     background-color: yellow;
+    padding: 5px;
 }
