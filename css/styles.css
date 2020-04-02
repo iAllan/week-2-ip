@@ -27,3 +27,7 @@ body    {
     color: floralwhite;
     text-align: center;
 }
+#submit {
+    background-color: blue;
+    color: white;
+}
