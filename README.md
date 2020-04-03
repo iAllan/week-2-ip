@@ -29,5 +29,5 @@ If you run into any issues, you can send an email to allenbosire@gmail.com.
 
 ### License
 
-This project is MIT Licensed.
+This project is MIT [Licensed](https://github.com/iAllan/week-2-ip/blob/master/License.txt).
 Copyright (c) {2020} **Allan Bosire**
